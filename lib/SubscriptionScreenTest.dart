@@ -31,7 +31,7 @@ class _SubscriptionTestState extends State<SubscriptionTest> {
     price = list['price'];
     duration = list["duration"];
     Map<String, String> durations_printing = {
-      "one_monthprice": "1 Month",
+      "one_monthprice": "2 Month",
       "one_yearprice": "1 year",
       "six_monthprice": "6 Months",
       "three_monthprice": "3 Months",
